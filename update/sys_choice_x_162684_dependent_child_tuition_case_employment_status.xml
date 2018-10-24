@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="employment_status" table="x_162684_dependent_child_tuition_case" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employment_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Full Time Active</label>
+            <language>en</language>
+            <name>x_162684_dependent_child_tuition_case</name>
+            <sequence>1</sequence>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 21:38:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>207f77464fd12300d0b6eb118110c7d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 21:38:53</sys_updated_on>
+            <value>Full Time Active</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employment_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Part Time Active</label>
+            <language>en</language>
+            <name>x_162684_dependent_child_tuition_case</name>
+            <sequence>2</sequence>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 21:39:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>249f77464fd12300d0b6eb118110c70e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 21:39:05</sys_updated_on>
+            <value>Part Time Active</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employment_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bargaining Unit</label>
+            <language>en</language>
+            <name>x_162684_dependent_child_tuition_case</name>
+            <sequence>3</sequence>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 21:39:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>269f77464fd12300d0b6eb118110c7d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 21:39:14</sys_updated_on>
+            <value>Bargaining Unit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employment_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Retired FT</label>
+            <language>en</language>
+            <name>x_162684_dependent_child_tuition_case</name>
+            <sequence>4</sequence>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 21:39:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9af77464fd12300d0b6eb118110c7a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 21:39:26</sys_updated_on>
+            <value>Retired FT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employment_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Retired PT</label>
+            <language>en</language>
+            <name>x_162684_dependent_child_tuition_case</name>
+            <sequence>5</sequence>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 21:39:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89bf73464fd12300d0b6eb118110c7dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 21:39:40</sys_updated_on>
+            <value>Retired PT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employment_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Disabled</label>
+            <language>en</language>
+            <name>x_162684_dependent_child_tuition_case</name>
+            <sequence>6</sequence>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 21:39:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>63bf3b464fd12300d0b6eb118110c701</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 21:39:50</sys_updated_on>
+            <value>Disabled</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employment_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Deceased</label>
+            <language>en</language>
+            <name>x_162684_dependent_child_tuition_case</name>
+            <sequence>7</sequence>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 21:40:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eecf7b464fd12300d0b6eb118110c79c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 21:40:02</sys_updated_on>
+            <value>Deceased</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>employment_status</element>
+            <name>x_162684_dependent_child_tuition_case</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 21:38:53</sys_created_on>
+            <sys_id>b58ff3c24fd12300d0b6eb118110c7f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>employment_status</sys_name>
+            <sys_package display_value="Dependent Child Tuition Rem" source="x_162684_dependent">24c96fc24f912300d0b6eb118110c790</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Dependent Child Tuition Rem">24c96fc24f912300d0b6eb118110c790</sys_scope>
+            <sys_update_name>sys_choice_x_162684_dependent_child_tuition_case_employment_status</sys_update_name>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 21:38:53</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

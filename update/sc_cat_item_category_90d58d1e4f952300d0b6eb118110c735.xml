@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Dependent Child Tuition Assistance">8be381da4f952300d0b6eb118110c79c</sc_cat_item>
+        <sc_category display_value="Employee Relations">87c78de49f331200d9011977677fcfa3</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>david.self</sys_created_by>
+        <sys_created_on>2018-10-24 02:45:59</sys_created_on>
+        <sys_id>90d58d1e4f952300d0b6eb118110c735</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employee Relations.Dependent Child Tuition Assistance</sys_name>
+        <sys_package display_value="Dependent Child Tuition Rem" source="x_162684_dependent">24c96fc24f912300d0b6eb118110c790</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dependent Child Tuition Rem">24c96fc24f912300d0b6eb118110c790</sys_scope>
+        <sys_update_name>sc_cat_item_category_90d58d1e4f952300d0b6eb118110c735</sys_update_name>
+        <sys_updated_by>david.self</sys_updated_by>
+        <sys_updated_on>2018-10-24 02:45:59</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

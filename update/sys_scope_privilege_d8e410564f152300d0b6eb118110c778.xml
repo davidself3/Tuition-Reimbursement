@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Dependent Child Tuition Rem">24c96fc24f912300d0b6eb118110c790</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>david.self</sys_created_by>
+        <sys_created_on>2018-10-23 23:12:11</sys_created_on>
+        <sys_id>d8e410564f152300d0b6eb118110c778</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide API: properties</sys_name>
+        <sys_package display_value="Dependent Child Tuition Rem" source="x_162684_dependent">24c96fc24f912300d0b6eb118110c790</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dependent Child Tuition Rem">24c96fc24f912300d0b6eb118110c790</sys_scope>
+        <sys_update_name>sys_scope_privilege_d8e410564f152300d0b6eb118110c778</sys_update_name>
+        <sys_updated_by>david.self</sys_updated_by>
+        <sys_updated_on>2018-10-23 23:12:11</sys_updated_on>
+        <target_name>Glide API: properties</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>

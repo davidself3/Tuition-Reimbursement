@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_user" label="Children" max_length="40" name="x_162684_dependent_children" type="collection">
+        <element label="Date of Birth" max_length="40" name="date_of_birth" type="glide_date"/>
+        <element label="Parent" max_length="32" name="parent" reference="sn_hr_core_profile" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Social Security Number" max_length="40" name="social_security_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Student ID Number" max_length="40" name="student_id" type="string"/>
+        <index name="index">
+            <element name="parent"/>
+        </index>
+    </element>
+</database>

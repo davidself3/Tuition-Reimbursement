@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="6a8db7c24fd12300d0b6eb118110c746" sys_domain="global" table="x_162684_dependent_children" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 21:30:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e8dfbc24fd12300d0b6eb118110c728</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_162684_dependent_children" name="x_162684_dependent_children" sys_domain="global" view="3e5370019f22120047a2d126c42e705b">6a8db7c24fd12300d0b6eb118110c746</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_162684_dependent_children" sys_domain="global" view="3e5370019f22120047a2d126c42e705b">aa8dfbc24fd12300d0b6eb118110c726</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 21:30:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 21:30:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a28dfbc24fd12300d0b6eb118110c726</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_162684_dependent_children" name="x_162684_dependent_children" sys_domain="global" view="3e5370019f22120047a2d126c42e705b">6a8db7c24fd12300d0b6eb118110c746</sys_ui_form>
+            <sys_ui_section caption="Job Role" display_value="Job Role" name="x_162684_dependent_children" sys_domain="global" view="3e5370019f22120047a2d126c42e705b">6a8db7c24fd12300d0b6eb118110c748</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 21:30:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 21:30:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e68dfbc24fd12300d0b6eb118110c72b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_162684_dependent_children" name="x_162684_dependent_children" sys_domain="global" view="3e5370019f22120047a2d126c42e705b">6a8db7c24fd12300d0b6eb118110c746</sys_ui_form>
+            <sys_ui_section caption="Contact Details" display_value="Contact Details" name="x_162684_dependent_children" sys_domain="global" view="3e5370019f22120047a2d126c42e705b">228dfbc24fd12300d0b6eb118110c729</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 21:30:12</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_162684_dependent_children</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 21:30:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6a8db7c24fd12300d0b6eb118110c746</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_162684_dependent_children</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Dependent Child Tuition Rem" source="x_162684_dependent">24c96fc24f912300d0b6eb118110c790</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Dependent Child Tuition Rem">24c96fc24f912300d0b6eb118110c790</sys_scope>
+            <sys_update_name>sys_ui_form_sections_6a8db7c24fd12300d0b6eb118110c746</sys_update_name>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 21:30:12</sys_updated_on>
+            <sys_user/>
+            <view display_value="Human Resources" name="human_resources">3e5370019f22120047a2d126c42e705b</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

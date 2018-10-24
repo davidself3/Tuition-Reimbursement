@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="c6cde34a4f912300d0b6eb118110c7a9" sys_domain="global" table="x_162684_dependent_child_tuition_case" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 20:21:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6cd274a4f912300d0b6eb118110c7f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_162684_dependent_child_tuition_case" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">c6cde34a4f912300d0b6eb118110c7a9</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">02cde34a4f912300d0b6eb118110c7ab</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 20:21:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 21:54:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3123401a4fd12300d0b6eb118110c745</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_162684_dependent_child_tuition_case" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">c6cde34a4f912300d0b6eb118110c7a9</sys_ui_form>
+            <sys_ui_section caption="Record Producer Employee" display_value="Record Producer Employee" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">fd23401a4fd12300d0b6eb118110c741</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 21:54:44</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:09:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f486449a4fd12300d0b6eb118110c7c6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_162684_dependent_child_tuition_case" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">c6cde34a4f912300d0b6eb118110c7a9</sys_ui_form>
+            <sys_ui_section caption="Record Producer Child" display_value="Record Producer Child" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">7486449a4fd12300d0b6eb118110c7c3</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:09:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:21:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b449841e4fd12300d0b6eb118110c73e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_162684_dependent_child_tuition_case" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">c6cde34a4f912300d0b6eb118110c7a9</sys_ui_form>
+            <sys_ui_section caption="Information" display_value="Information" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">3849441e4fd12300d0b6eb118110c735</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:21:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 20:21:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4ecd274a4f912300d0b6eb118110c7f3</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_162684_dependent_child_tuition_case" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">c6cde34a4f912300d0b6eb118110c7a9</sys_ui_form>
+            <sys_ui_section caption="Fulfillment Instructions" display_value="Fulfillment Instructions" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">cacd274a4f912300d0b6eb118110c7f2</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:21:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 20:21:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c2cd274a4f912300d0b6eb118110c7f5</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_162684_dependent_child_tuition_case" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">c6cde34a4f912300d0b6eb118110c7a9</sys_ui_form>
+            <sys_ui_section caption="Comments and Work Notes" display_value="Comments and Work Notes" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">42cd274a4f912300d0b6eb118110c7f4</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:21:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_162684_dependent_child_tuition_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 20:21:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6cde34a4f912300d0b6eb118110c7a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_162684_dependent_child_tuition_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Dependent Child Tuition Rem" source="x_162684_dependent">24c96fc24f912300d0b6eb118110c790</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Dependent Child Tuition Rem">24c96fc24f912300d0b6eb118110c790</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c6cde34a4f912300d0b6eb118110c7a9</sys_update_name>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 20:21:21</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

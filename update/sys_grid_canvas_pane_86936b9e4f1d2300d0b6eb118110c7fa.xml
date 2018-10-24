@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA New Tab">4e83a31e4f1d2300d0b6eb118110c74b</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2018-10-24 07:15:20">86936b9e4f1d2300d0b6eb118110c7f7</portal_widget>
+        <posx>5</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>david.self</sys_created_by>
+        <sys_created_on>2018-10-24 14:15:21</sys_created_on>
+        <sys_id>86936b9e4f1d2300d0b6eb118110c7fa</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>4e83a31e4f1d2300d0b6eb118110c74b</sys_name>
+        <sys_package display_value="Dependent Child Tuition Rem" source="x_162684_dependent">24c96fc24f912300d0b6eb118110c790</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dependent Child Tuition Rem">24c96fc24f912300d0b6eb118110c790</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_86936b9e4f1d2300d0b6eb118110c7fa</sys_update_name>
+        <sys_updated_by>david.self</sys_updated_by>
+        <sys_updated_on>2018-10-24 14:25:35</sys_updated_on>
+        <width>7</width>
+    </sys_grid_canvas_pane>
+</record_update>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_162684_dependent_child_tuition_case" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Submitted</label>
+            <language>en</language>
+            <name>x_162684_dependent_child_tuition_case</name>
+            <sequence>0</sequence>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:49:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>568f88124f152300d0b6eb118110c7fb</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 02:04:20</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Assigned</label>
+            <language>en</language>
+            <name>x_162684_dependent_child_tuition_case</name>
+            <sequence>0</sequence>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:49:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3af8cde4fd12300d0b6eb118110c7cf</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 14:16:51</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed</label>
+            <language>en</language>
+            <name>x_162684_dependent_child_tuition_case</name>
+            <sequence>1</sequence>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:49:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f1cf84124f152300d0b6eb118110c77b</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 14:16:37</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approved</label>
+            <language>en</language>
+            <name>x_162684_dependent_child_tuition_case</name>
+            <sequence>2</sequence>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:50:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6ff8c124f152300d0b6eb118110c7d3</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 15:08:54</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Processing</label>
+            <language>en</language>
+            <name>x_162684_dependent_child_tuition_case</name>
+            <sequence>4</sequence>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:50:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bddf40124f152300d0b6eb118110c7fe</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 15:08:35</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approval</label>
+            <language>en</language>
+            <name>x_162684_dependent_child_tuition_case</name>
+            <sequence>5</sequence>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:50:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1def08124f152300d0b6eb118110c789</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 15:08:48</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_162684_dependent_child_tuition_case</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:49:18</sys_created_on>
+            <sys_id>d5afc4124f152300d0b6eb118110c775</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Dependent Child Tuition Rem" source="x_162684_dependent">24c96fc24f912300d0b6eb118110c790</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Dependent Child Tuition Rem">24c96fc24f912300d0b6eb118110c790</sys_scope>
+            <sys_update_name>sys_choice_x_162684_dependent_child_tuition_case_state</sys_update_name>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:49:18</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

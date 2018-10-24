@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sn_hr_core_case" label="Child Tuition Case" max_length="40" name="x_162684_dependent_child_tuition_case" type="collection">
+        <element label="Anticipated Graduation Date" max_length="40" name="ant_grad_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Campus Box" max_length="40" name="campus_box" type="string"/>
+        <element dependent="parent_ref" dependent_on_field="parent_ref" label="Child" max_length="32" name="child_ref" reference="x_162684_dependent_children" type="reference" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" label="Month/Year Classes Begin / Resume" max_length="40" name="class_begin" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Class Level" max_length="40" name="class_level" type="string">
+            <choice>
+                <element label="Freshman" sequence="0" value="freshman"/>
+                <element label="Sophmore" sequence="1" value="sophmore"/>
+                <element label="Junior" sequence="2" value="junior"/>
+                <element label="Senior" sequence="3" value="senior"/>
+            </choice>
+        </element>
+        <element label="Credit Hours Earned to Date" max_length="40" name="credit_hours" type="integer"/>
+        <element label="Credit Hours Required For Undergraduate Degree" max_length="40" name="credit_hours_for_udrgrad" type="integer"/>
+        <element label="Date of Birth" max_length="40" name="date_of_birth" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Employee ID" max_length="40" name="employee_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Employee Name" max_length="40" name="employee_name" type="string"/>
+        <element choice="1" label="Employment Status" max_length="40" name="employment_status" type="choice">
+            <choice>
+                <element label="Full Time Active" sequence="1" value="Full Time Active"/>
+                <element label="Part Time Active" sequence="2" value="Part Time Active"/>
+                <element label="Bargaining Unit" sequence="3" value="Bargaining Unit"/>
+                <element label="Retired FT" sequence="4" value="Retired FT"/>
+                <element label="Retired PT" sequence="5" value="Retired PT"/>
+                <element label="Disabled" sequence="6" value="Disabled"/>
+                <element label="Deceased" sequence="7" value="Deceased"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Gender" max_length="40" name="gender" type="string">
+            <choice>
+                <element label="Male" sequence="0" value="male"/>
+                <element label="Female" sequence="1" value="female"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Home Address" max_length="40" name="home_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Method of Contact" max_length="40" name="method_of_contact" type="string">
+            <choice>
+                <element label="Email" sequence="0" value="email"/>
+                <element label="Phone" sequence="1" value="phone"/>
+            </choice>
+        </element>
+        <element label="Parent" max_length="32" name="parent_ref" reference="sn_hr_core_profile" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Relationship to Employee" max_length="40" name="relation_to_employee" type="string">
+            <choice>
+                <element label="Child (birth or adopted)" sequence="0" value="child"/>
+                <element label="Step Child" sequence="1" value="step child"/>
+                <element label="Child of Domestic Partner" sequence="2" value="child_of_dp"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="School" max_length="40" name="school" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="School Address" max_length="40" name="school_address" type="string"/>
+        <element label="Has Authorization to Release Student Information Been Mailed to The School?" max_length="40" name="school_auth_form" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="School Phone Number" max_length="40" name="school_phone_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Social Security Number" max_length="40" name="social_security_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Student ID Number" max_length="40" name="student_id_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Student Name" max_length="40" name="student_name" type="string"/>
+    </element>
+</database>

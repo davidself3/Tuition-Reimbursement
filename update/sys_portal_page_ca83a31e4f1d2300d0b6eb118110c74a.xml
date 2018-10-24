@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2018-10-24 17:29:38">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>david.self</sys_created_by>
+        <sys_created_on>2018-10-24 14:15:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ca83a31e4f1d2300d0b6eb118110c74a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dependent Child Tuition Rem" source="x_162684_dependent">24c96fc24f912300d0b6eb118110c790</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dependent Child Tuition Rem">24c96fc24f912300d0b6eb118110c790</sys_scope>
+        <sys_update_name>sys_portal_page_ca83a31e4f1d2300d0b6eb118110c74a</sys_update_name>
+        <sys_updated_by>david.self</sys_updated_by>
+        <sys_updated_on>2018-10-24 14:15:04</sys_updated_on>
+        <title>PA New Tab</title>
+        <user/>
+        <view>pa_new_tab_1</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">ca83a31e4f1d2300d0b6eb118110c74a</page>
+                <summary>Active Tuition Cases</summary>
+                <sys_created_by>david.self</sys_created_by>
+                <sys_created_on>2018-10-24 14:25:27</sys_created_on>
+                <sys_id>56e523524f5d2300d0b6eb118110c792</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>david.self</sys_updated_by>
+                <sys_updated_on>2018-10-24 14:25:27</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">4e83a31e4f1d2300d0b6eb118110c74b</grid_canvas>
+                        <height>10</height>
+                        <portal_widget display_value="Created 2018-10-24 07:25:27">56e523524f5d2300d0b6eb118110c792</portal_widget>
+                        <posx>0</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>david.self</sys_created_by>
+                        <sys_created_on>2018-10-24 14:25:27</sys_created_on>
+                        <sys_id>52e523524f5d2300d0b6eb118110c795</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_name>4e83a31e4f1d2300d0b6eb118110c74b</sys_name>
+                        <sys_package display_value="Dependent Child Tuition Rem" source="x_162684_dependent">24c96fc24f912300d0b6eb118110c790</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="Dependent Child Tuition Rem">24c96fc24f912300d0b6eb118110c790</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_52e523524f5d2300d0b6eb118110c795</sys_update_name>
+                        <sys_updated_by>david.self</sys_updated_by>
+                        <sys_updated_on>2018-10-24 14:25:31</sys_updated_on>
+                        <width>5</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-10-24 07:25:27">56e523524f5d2300d0b6eb118110c792</portal_section>
+                        <sys_created_by>david.self</sys_created_by>
+                        <sys_created_on>2018-10-24 14:25:27</sys_created_on>
+                        <sys_id>12e523524f5d2300d0b6eb118110c794</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.self</sys_updated_by>
+                        <sys_updated_on>2018-10-24 14:25:27</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-10-24 07:25:27">56e523524f5d2300d0b6eb118110c792</portal_section>
+                        <sys_created_by>david.self</sys_created_by>
+                        <sys_created_on>2018-10-24 14:25:27</sys_created_on>
+                        <sys_id>5ee523524f5d2300d0b6eb118110c792</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.self</sys_updated_by>
+                        <sys_updated_on>2018-10-24 14:25:27</sys_updated_on>
+                        <value>9ab52b124f5d2300d0b6eb118110c745</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-10-24 07:25:27">56e523524f5d2300d0b6eb118110c792</portal_section>
+                        <sys_created_by>david.self</sys_created_by>
+                        <sys_created_on>2018-10-24 14:25:27</sys_created_on>
+                        <sys_id>5ee523524f5d2300d0b6eb118110c793</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.self</sys_updated_by>
+                        <sys_updated_on>2018-10-24 14:25:27</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-10-24 07:25:27">56e523524f5d2300d0b6eb118110c792</portal_section>
+                        <sys_created_by>david.self</sys_created_by>
+                        <sys_created_on>2018-10-24 14:25:27</sys_created_on>
+                        <sys_id>9ae523524f5d2300d0b6eb118110c793</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.self</sys_updated_by>
+                        <sys_updated_on>2018-10-24 14:25:27</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-10-24 07:25:27">56e523524f5d2300d0b6eb118110c792</portal_section>
+                        <sys_created_by>david.self</sys_created_by>
+                        <sys_created_on>2018-10-24 14:25:27</sys_created_on>
+                        <sys_id>d2e523524f5d2300d0b6eb118110c794</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.self</sys_updated_by>
+                        <sys_updated_on>2018-10-24 14:25:27</sys_updated_on>
+                        <value>Active Tuition Cases</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-10-24 07:25:27">56e523524f5d2300d0b6eb118110c792</portal_section>
+                        <sys_created_by>david.self</sys_created_by>
+                        <sys_created_on>2018-10-24 14:25:27</sys_created_on>
+                        <sys_id>d6e523524f5d2300d0b6eb118110c793</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.self</sys_updated_by>
+                        <sys_updated_on>2018-10-24 14:25:27</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">ca83a31e4f1d2300d0b6eb118110c74a</page>
+                <summary>Child Tuition Cases</summary>
+                <sys_created_by>david.self</sys_created_by>
+                <sys_created_on>2018-10-24 14:15:20</sys_created_on>
+                <sys_id>86936b9e4f1d2300d0b6eb118110c7f7</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>david.self</sys_updated_by>
+                <sys_updated_on>2018-10-24 14:15:20</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">4e83a31e4f1d2300d0b6eb118110c74b</grid_canvas>
+                        <height>10</height>
+                        <portal_widget display_value="Created 2018-10-24 07:15:20">86936b9e4f1d2300d0b6eb118110c7f7</portal_widget>
+                        <posx>5</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>david.self</sys_created_by>
+                        <sys_created_on>2018-10-24 14:15:21</sys_created_on>
+                        <sys_id>86936b9e4f1d2300d0b6eb118110c7fa</sys_id>
+                        <sys_mod_count>2</sys_mod_count>
+                        <sys_name>4e83a31e4f1d2300d0b6eb118110c74b</sys_name>
+                        <sys_package display_value="Dependent Child Tuition Rem" source="x_162684_dependent">24c96fc24f912300d0b6eb118110c790</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="Dependent Child Tuition Rem">24c96fc24f912300d0b6eb118110c790</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_86936b9e4f1d2300d0b6eb118110c7fa</sys_update_name>
+                        <sys_updated_by>david.self</sys_updated_by>
+                        <sys_updated_on>2018-10-24 14:25:35</sys_updated_on>
+                        <width>7</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-10-24 07:15:20">86936b9e4f1d2300d0b6eb118110c7f7</portal_section>
+                        <sys_created_by>david.self</sys_created_by>
+                        <sys_created_on>2018-10-24 14:15:20</sys_created_on>
+                        <sys_id>0a936b9e4f1d2300d0b6eb118110c7f9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.self</sys_updated_by>
+                        <sys_updated_on>2018-10-24 14:15:20</sys_updated_on>
+                        <value>Child Tuition Cases</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-10-24 07:15:20">86936b9e4f1d2300d0b6eb118110c7f7</portal_section>
+                        <sys_created_by>david.self</sys_created_by>
+                        <sys_created_on>2018-10-24 14:15:20</sys_created_on>
+                        <sys_id>0e936b9e4f1d2300d0b6eb118110c7f8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.self</sys_updated_by>
+                        <sys_updated_on>2018-10-24 14:15:20</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-10-24 07:15:20">86936b9e4f1d2300d0b6eb118110c7f7</portal_section>
+                        <sys_created_by>david.self</sys_created_by>
+                        <sys_created_on>2018-10-24 14:15:20</sys_created_on>
+                        <sys_id>42936b9e4f1d2300d0b6eb118110c7f8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.self</sys_updated_by>
+                        <sys_updated_on>2018-10-24 14:15:20</sys_updated_on>
+                        <value>c323eb1e4f1d2300d0b6eb118110c7a9</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-10-24 07:15:20">86936b9e4f1d2300d0b6eb118110c7f7</portal_section>
+                        <sys_created_by>david.self</sys_created_by>
+                        <sys_created_on>2018-10-24 14:15:20</sys_created_on>
+                        <sys_id>46936b9e4f1d2300d0b6eb118110c7f9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.self</sys_updated_by>
+                        <sys_updated_on>2018-10-24 14:15:20</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-10-24 07:15:20">86936b9e4f1d2300d0b6eb118110c7f7</portal_section>
+                        <sys_created_by>david.self</sys_created_by>
+                        <sys_created_on>2018-10-24 14:15:20</sys_created_on>
+                        <sys_id>82936b9e4f1d2300d0b6eb118110c7f9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.self</sys_updated_by>
+                        <sys_updated_on>2018-10-24 14:15:20</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-10-24 07:15:20">86936b9e4f1d2300d0b6eb118110c7f7</portal_section>
+                        <sys_created_by>david.self</sys_created_by>
+                        <sys_created_on>2018-10-24 14:15:20</sys_created_on>
+                        <sys_id>ce936b9e4f1d2300d0b6eb118110c7f8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>david.self</sys_updated_by>
+                        <sys_updated_on>2018-10-24 14:15:20</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="relation_to_employee" table="x_162684_dependent_child_tuition_case" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>relation_to_employee</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Child (birth or adopted)</label>
+            <language>en</language>
+            <name>x_162684_dependent_child_tuition_case</name>
+            <sequence>0</sequence>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:09:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d986849a4fd12300d0b6eb118110c725</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:09:27</sys_updated_on>
+            <value>child</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>relation_to_employee</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Step Child</label>
+            <language>en</language>
+            <name>x_162684_dependent_child_tuition_case</name>
+            <sequence>1</sequence>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:09:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9d86849a4fd12300d0b6eb118110c727</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:09:27</sys_updated_on>
+            <value>step child</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>relation_to_employee</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Child of Domestic Partner</label>
+            <language>en</language>
+            <name>x_162684_dependent_child_tuition_case</name>
+            <sequence>2</sequence>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:09:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9d86849a4fd12300d0b6eb118110c729</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:09:27</sys_updated_on>
+            <value>child_of_dp</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>relation_to_employee</element>
+            <name>x_162684_dependent_child_tuition_case</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:09:27</sys_created_on>
+            <sys_id>1986849a4fd12300d0b6eb118110c727</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>relation_to_employee</sys_name>
+            <sys_package display_value="Dependent Child Tuition Rem" source="x_162684_dependent">24c96fc24f912300d0b6eb118110c790</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Dependent Child Tuition Rem">24c96fc24f912300d0b6eb118110c790</sys_scope>
+            <sys_update_name>sys_choice_x_162684_dependent_child_tuition_case_relation_to_employee</sys_update_name>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:09:27</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Record Producer Child" section_id="7486449a4fd12300d0b6eb118110c7c3" sys_domain="global" table="x_162684_dependent_child_tuition_case" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>student_name</element>
+            <position>0</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:39:13</sys_created_on>
+            <sys_id>115d40de4fd12300d0b6eb118110c73e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record Producer Child" display_value="Record Producer Child" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">7486449a4fd12300d0b6eb118110c7c3</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:39:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>student_id_number</element>
+            <position>1</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:39:13</sys_created_on>
+            <sys_id>915d40de4fd12300d0b6eb118110c73e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record Producer Child" display_value="Record Producer Child" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">7486449a4fd12300d0b6eb118110c7c3</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:39:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_of_birth</element>
+            <position>2</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:39:13</sys_created_on>
+            <sys_id>155d40de4fd12300d0b6eb118110c73e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record Producer Child" display_value="Record Producer Child" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">7486449a4fd12300d0b6eb118110c7c3</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:39:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>credit_hours</element>
+            <position>3</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:39:13</sys_created_on>
+            <sys_id>955d40de4fd12300d0b6eb118110c73e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record Producer Child" display_value="Record Producer Child" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">7486449a4fd12300d0b6eb118110c7c3</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:39:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>credit_hours_for_udrgrad</element>
+            <position>4</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:39:13</sys_created_on>
+            <sys_id>195d40de4fd12300d0b6eb118110c73e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record Producer Child" display_value="Record Producer Child" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">7486449a4fd12300d0b6eb118110c7c3</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:39:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ant_grad_date</element>
+            <position>5</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:39:13</sys_created_on>
+            <sys_id>995d40de4fd12300d0b6eb118110c73e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record Producer Child" display_value="Record Producer Child" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">7486449a4fd12300d0b6eb118110c7c3</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:39:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>school_auth_form</element>
+            <position>6</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:39:13</sys_created_on>
+            <sys_id>1d5d40de4fd12300d0b6eb118110c73e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record Producer Child" display_value="Record Producer Child" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">7486449a4fd12300d0b6eb118110c7c3</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:39:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:39:13</sys_created_on>
+            <sys_id>9d5d40de4fd12300d0b6eb118110c73e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record Producer Child" display_value="Record Producer Child" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">7486449a4fd12300d0b6eb118110c7c3</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:39:13</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>gender</element>
+            <position>8</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:39:13</sys_created_on>
+            <sys_id>115d40de4fd12300d0b6eb118110c73f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record Producer Child" display_value="Record Producer Child" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">7486449a4fd12300d0b6eb118110c7c3</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:39:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>social_security_number</element>
+            <position>9</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:39:13</sys_created_on>
+            <sys_id>915d40de4fd12300d0b6eb118110c73f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record Producer Child" display_value="Record Producer Child" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">7486449a4fd12300d0b6eb118110c7c3</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:39:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>relation_to_employee</element>
+            <position>10</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:39:13</sys_created_on>
+            <sys_id>155d40de4fd12300d0b6eb118110c73f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record Producer Child" display_value="Record Producer Child" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">7486449a4fd12300d0b6eb118110c7c3</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:39:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>class_level</element>
+            <position>11</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:39:13</sys_created_on>
+            <sys_id>955d40de4fd12300d0b6eb118110c73f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record Producer Child" display_value="Record Producer Child" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">7486449a4fd12300d0b6eb118110c7c3</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:39:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>class_begin</element>
+            <position>12</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:39:13</sys_created_on>
+            <sys_id>195d40de4fd12300d0b6eb118110c73f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record Producer Child" display_value="Record Producer Child" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">7486449a4fd12300d0b6eb118110c7c3</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:39:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>school</element>
+            <position>13</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:39:13</sys_created_on>
+            <sys_id>995d40de4fd12300d0b6eb118110c73f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record Producer Child" display_value="Record Producer Child" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">7486449a4fd12300d0b6eb118110c7c3</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:39:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>school_phone_number</element>
+            <position>14</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:39:13</sys_created_on>
+            <sys_id>1d5d40de4fd12300d0b6eb118110c73f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record Producer Child" display_value="Record Producer Child" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">7486449a4fd12300d0b6eb118110c7c3</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:39:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>school_address</element>
+            <position>15</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:39:13</sys_created_on>
+            <sys_id>9d5d40de4fd12300d0b6eb118110c73f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Record Producer Child" display_value="Record Producer Child" name="x_162684_dependent_child_tuition_case" sys_domain="global" view="Default view">7486449a4fd12300d0b6eb118110c7c3</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:39:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Record Producer Child</caption>
+            <header>false</header>
+            <name>x_162684_dependent_child_tuition_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 22:09:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7486449a4fd12300d0b6eb118110c7c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Record Producer Child</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Dependent Child Tuition Rem" source="x_162684_dependent">24c96fc24f912300d0b6eb118110c790</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Dependent Child Tuition Rem">24c96fc24f912300d0b6eb118110c790</sys_scope>
+            <sys_update_name>sys_ui_section_7486449a4fd12300d0b6eb118110c7c3</sys_update_name>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 22:09:25</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

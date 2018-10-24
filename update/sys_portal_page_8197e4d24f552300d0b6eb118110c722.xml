@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2018-10-24 17:29:37">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>david.self</sys_created_by>
+        <sys_created_on>2018-10-24 00:33:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8197e4d24f552300d0b6eb118110c722</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>catalog_poc_employee_relations</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dependent Child Tuition Rem" source="x_162684_dependent">24c96fc24f912300d0b6eb118110c790</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dependent Child Tuition Rem">24c96fc24f912300d0b6eb118110c790</sys_scope>
+        <sys_update_name>sys_portal_page_8197e4d24f552300d0b6eb118110c722</sys_update_name>
+        <sys_updated_by>david.self</sys_updated_by>
+        <sys_updated_on>2018-10-24 00:33:53</sys_updated_on>
+        <title>catalog_poc_employee_relations</title>
+        <user/>
+        <view>catalog_poc_employee_relations</view>
+    </sys_portal_page>
+</record_update>

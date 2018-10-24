@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="b9208c564fd12300d0b6eb118110c785" sys_domain="global" table="sys_user" version="3" view="child">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-24 00:18:19</sys_created_on>
+            <sys_id>8904a8de4f152300d0b6eb118110c767</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 00:18:19</sys_updated_on>
+            <text>DFDB Information</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>0</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-24 00:18:19</sys_created_on>
+            <sys_id>4104a8de4f152300d0b6eb118110c768</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f920c4564fd12300d0b6eb118110c76e">b9208c564fd12300d0b6eb118110c785</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 00:18:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>1</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-24 00:18:19</sys_created_on>
+            <sys_id>c504a8de4f152300d0b6eb118110c768</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f920c4564fd12300d0b6eb118110c76e">b9208c564fd12300d0b6eb118110c785</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 00:18:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>2</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-24 00:18:19</sys_created_on>
+            <sys_id>4904a8de4f152300d0b6eb118110c768</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f920c4564fd12300d0b6eb118110c76e">b9208c564fd12300d0b6eb118110c785</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 00:18:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>3</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-24 00:18:19</sys_created_on>
+            <sys_id>c904a8de4f152300d0b6eb118110c768</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f920c4564fd12300d0b6eb118110c76e">b9208c564fd12300d0b6eb118110c785</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 00:18:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_of_birth</element>
+            <position>4</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-24 00:18:19</sys_created_on>
+            <sys_id>4d04a8de4f152300d0b6eb118110c768</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f920c4564fd12300d0b6eb118110c76e">b9208c564fd12300d0b6eb118110c785</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 00:18:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>student_id</element>
+            <position>5</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-24 00:18:19</sys_created_on>
+            <sys_id>cd04a8de4f152300d0b6eb118110c768</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f920c4564fd12300d0b6eb118110c76e">b9208c564fd12300d0b6eb118110c785</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 00:18:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>social_security_number</element>
+            <position>6</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-24 00:18:19</sys_created_on>
+            <sys_id>4104a8de4f152300d0b6eb118110c769</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f920c4564fd12300d0b6eb118110c76e">b9208c564fd12300d0b6eb118110c785</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 00:18:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>gender</element>
+            <position>7</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-24 00:18:19</sys_created_on>
+            <sys_id>c104a8de4f152300d0b6eb118110c769</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f920c4564fd12300d0b6eb118110c76e">b9208c564fd12300d0b6eb118110c785</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 00:18:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>8</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-24 00:18:19</sys_created_on>
+            <sys_id>4504a8de4f152300d0b6eb118110c769</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f920c4564fd12300d0b6eb118110c76e">b9208c564fd12300d0b6eb118110c785</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 00:18:19</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>9</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-24 00:18:19</sys_created_on>
+            <sys_id>c504a8de4f152300d0b6eb118110c769</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f920c4564fd12300d0b6eb118110c76e">b9208c564fd12300d0b6eb118110c785</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 00:18:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>notification</element>
+            <position>10</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-24 00:18:19</sys_created_on>
+            <sys_id>4904a8de4f152300d0b6eb118110c769</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f920c4564fd12300d0b6eb118110c76e">b9208c564fd12300d0b6eb118110c785</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 00:18:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>11</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-24 00:18:19</sys_created_on>
+            <sys_id>c904a8de4f152300d0b6eb118110c769</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f920c4564fd12300d0b6eb118110c76e">b9208c564fd12300d0b6eb118110c785</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 00:18:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mobile_phone</element>
+            <position>12</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-24 00:18:19</sys_created_on>
+            <sys_id>4d04a8de4f152300d0b6eb118110c769</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f920c4564fd12300d0b6eb118110c76e">b9208c564fd12300d0b6eb118110c785</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 00:18:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>street</element>
+            <position>13</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-24 00:18:19</sys_created_on>
+            <sys_id>cd04a8de4f152300d0b6eb118110c769</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f920c4564fd12300d0b6eb118110c76e">b9208c564fd12300d0b6eb118110c785</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 00:18:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <position>14</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-24 00:18:19</sys_created_on>
+            <sys_id>4104a8de4f152300d0b6eb118110c76a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f920c4564fd12300d0b6eb118110c76e">b9208c564fd12300d0b6eb118110c785</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 00:18:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>zip</element>
+            <position>15</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-24 00:18:19</sys_created_on>
+            <sys_id>c104a8de4f152300d0b6eb118110c76a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f920c4564fd12300d0b6eb118110c76e">b9208c564fd12300d0b6eb118110c785</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 00:18:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>16</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-24 00:18:19</sys_created_on>
+            <sys_id>4504a8de4f152300d0b6eb118110c76a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f920c4564fd12300d0b6eb118110c76e">b9208c564fd12300d0b6eb118110c785</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 00:18:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>17</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-24 00:18:19</sys_created_on>
+            <sys_id>c504a8de4f152300d0b6eb118110c76a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f920c4564fd12300d0b6eb118110c76e">b9208c564fd12300d0b6eb118110c785</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 00:18:19</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>8904a8de4f152300d0b6eb118110c767</element>
+            <position>18</position>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-24 00:18:19</sys_created_on>
+            <sys_id>4904a8de4f152300d0b6eb118110c76a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sys_user" sys_domain="global" view="f920c4564fd12300d0b6eb118110c76e">b9208c564fd12300d0b6eb118110c785</sys_ui_section>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-24 00:18:19</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sys_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>david.self</sys_created_by>
+            <sys_created_on>2018-10-23 21:41:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b9208c564fd12300d0b6eb118110c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Dependent Child Tuition Rem" source="x_162684_dependent">24c96fc24f912300d0b6eb118110c790</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Dependent Child Tuition Rem">24c96fc24f912300d0b6eb118110c790</sys_scope>
+            <sys_update_name>sys_ui_section_b9208c564fd12300d0b6eb118110c785</sys_update_name>
+            <sys_updated_by>david.self</sys_updated_by>
+            <sys_updated_on>2018-10-23 21:41:37</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Child" name="child">f920c4564fd12300d0b6eb118110c76e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
